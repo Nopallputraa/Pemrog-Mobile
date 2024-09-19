@@ -1,0 +1,7 @@
+version control : git
+flutter : multi platform (bisa android, ios)
+
+
+statefull (bisa diambil dari data kita)
+stateless (menunya permanen, tidak fleksibel)
+
